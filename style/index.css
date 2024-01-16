@@ -545,7 +545,8 @@ hr {
         padding: 20px 10px;
     }
     .banner{
-        width: 335px;
+        /* width: 335px; */
+        width: 92%;
     }
     .banner-title{
         font-size: 20px;
@@ -575,14 +576,15 @@ hr {
     .Destination-img1,
     .Destination-img2,
     .Destination-img3{
-        width: 330px;
-        height: 50%;
+        /* width: 330px; */
+        height: 100%;
         display: grid;
         grid-template-columns: repeat(1,1fr);
-        margin-left: 20px;
+        margin-left: 5px;
     }
      .second {
-        width: 360px;
+        /* width: 360px; */
+        width: 100%;
         justify-content: left;
         margin-right: 10px;
         /* padding-top: 40px; */
